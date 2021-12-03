@@ -10,3 +10,11 @@ Building the back end for an e-commerce site. This involves building Sequelize m
 > Usage
 > Credits
 > License
+
+## Installation
+
+1. Clone the repository from Github
+2. Run NPM Install to install the modules
+3. Run "npm run seed" to seed the database
+4. Run "npm start" or "nodemon server.js" to start the server
+5. Use Insomnia to make REST API calls on the server
